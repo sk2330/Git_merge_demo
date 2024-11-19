@@ -1,1 +1,1 @@
-# Git_merge_demo
+# Updated Git_merge_demo Code of Developer B
